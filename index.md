@@ -1,3 +1,3 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+# rhoppel GitHub pages
+### trying out GitHub pags
+#### this is my first try at this.. not really
